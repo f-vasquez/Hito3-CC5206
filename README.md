@@ -1,2 +1,2 @@
-# Hito2-CC5206
-Hito 2, Curso CC5206 Minería de Datos
+# Hito3-CC5206
+Hito 3, Curso CC5206 Minería de Datos
